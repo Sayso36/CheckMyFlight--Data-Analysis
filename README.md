@@ -1,4 +1,4 @@
-Project Title :- ANALYSIS OF DATA FOR CHECKMYFLIGHT COMPANY.
+Project Title :- ANALYSIS OF FLIGHT DATA FOR CHECKMYFLIGHT COMPANY.
  
 Overview
 In this comprehensive report, we delve into the intricate analysis and forecasting of flight prices, leveraging a dataset brimming with insightful information about flight itineraries. Our exploration spans a multitude of factors that wield influence over flight prices, encompassing temporal trends, destination choices, airline selections, and the intricate interplay between them. Our primary aim is to furnish travelers with invaluable insights that serve as compass points, guiding them towards judicious decisions concerning flight bookings, adept cost optimization strategies, and astute destination selections. Through our meticulous examination, we endeavor to empower travelers with the knowledge and foresight necessary to navigate the complexities of the air travel landscape with confidence and finesse, ultimately enhancing their journey experiences and ensuring maximum value for their investments.
